@@ -1,16 +1,31 @@
 # online-quiz-system-java
-This is a Quiz Application developed as part of my Advanced Java lab project.
+
+## Project Description
+This is a desktop-based Online Quiz System developed using Java Swing and JDBC as part of my Advanced Java lab project.
+The application allows users to log in, attempt quizzes, view results, and check scores.
 
 ## Features
-- User login
-- Multiple choice questions
-- Score calculation
-- Result display
+- User Login Authentication
+- Multiple Choice Questions
+- Quiz Timer
+- Result Calculation
+- Leaderboard / Score Display
 
 ## Technologies Used
-- Java
+- Java (Swing)
+- JDBC
+- MySQL
 - Eclipse IDE
-- Java Swing 
+
+## How to Run the Project
+1. Open the project in Eclipse IDE
+2. Configure MySQL database connection
+3. Run the `LoginPage.java` file
 
 ## Project Type
-Lab Project
+Academic / Lab Project (Advanced Java)
+
+## Author
+Meenakshi
+
+
