@@ -25,6 +25,17 @@ The application allows users to log in, attempt quizzes, view results, and check
 ## Project Type
 Academic / Lab Project (Advanced Java)
 
+## Screenshots
+
+### Login Page
+![Login](login.png)
+
+### Quiz Page
+![Quiz](quiz.png)
+
+### Result Page
+![Result](result.png)
+
 ## Author
 Meenakshi
 
